@@ -2,3 +2,5 @@
 /out/
 /src/config.properties
 /tmp/
+.idea
+*.jar
